@@ -1,0 +1,29 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.App img {
+  max-height: 500px;
+  margin-top: 20px;
+}
+
+body {
+  background: #010916;
+  color: #fff;
+}
+
+#logo {
+  height: 120px;
+}
+
+button {
+  height: 60px;
+  width: 300px;
+  font-size: 22px;
+  background-color: #101a2c;
+  border: 1px solid #4b5763;
+  color: #b0b1b3;
+  text-transform: uppercase;
+  cursor: pointer;
+}
